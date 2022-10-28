@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @TedLau
+- 👀 I’m interested in CyberSecurity、Programming、Running、Playing badminton...
+- 🌱 I’m currently learning Java、Go、Poc collecting...
+- 💞️ I’m looking to collaborate on ...
+
+<!---
+TedLau/TedLau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
